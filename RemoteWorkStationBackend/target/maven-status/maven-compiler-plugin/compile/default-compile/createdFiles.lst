@@ -1,0 +1,3 @@
+tr\com\havelsan\RemoteWorkStation\RemoteWorkStationApplication.class
+tr\com\havelsan\RemoteWorkStation\endpoint\RemoteWorkStationCommand.class
+tr\com\havelsan\RemoteWorkStation\endpoint\RemoteWorkStationCommandImpl.class

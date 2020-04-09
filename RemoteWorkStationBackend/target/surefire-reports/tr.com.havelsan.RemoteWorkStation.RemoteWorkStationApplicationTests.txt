@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: tr.com.havelsan.RemoteWorkStation.RemoteWorkStationApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.702 s - in tr.com.havelsan.RemoteWorkStation.RemoteWorkStationApplicationTests
